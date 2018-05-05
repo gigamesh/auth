@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "start": "node server/server.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "engines":{
+  "engines": {
     "node": "8.9.4"
   },
-  "author": "",
+  "author": "Matt",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^1.0.3",
